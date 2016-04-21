@@ -1,0 +1,1 @@
+Test project to play with spring boot and instagram API
